@@ -1,0 +1,60 @@
+body {margin-top: 0;
+    
+    font-family: sans-serif;
+}
+h1 { text-align: center;
+text-decoration: underline;
+font-size: 55px;
+font-family: URW Chancery L, cursive;
+
+color: #906CD7;
+}
+header{background-color:#2A0671;margin-top: 0px;}
+
+h2 {text-align: center;
+border: solid 1px;
+font-weight: 900;
+font-size: 45px;
+;
+
+}
+
+h3 { text-align: center;
+font-size: 30px ;
+font-weight: 900;
+font-size: 45px;
+color: #2A0671;
+}
+ 
+
+.block{font-weight: 700;
+    font-size: 30px;
+    padding: 30px;
+    border-radius: 50%;
+    width: 400px;
+    
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    background-color:#906CD7 ;
+   }
+
+img { height: 234px;
+width: 234px;
+}
+
+.oo { text-align: center;
+    font-weight: 900;
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 40px;
+font-family: URW Chancery L, cursive;}
+     
+
+ 
+footer h2 {  background-color:#2A0671;
+    margin-bottom: 0;
+
+color: #906CD7;
+
+}
